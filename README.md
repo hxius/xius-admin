@@ -1,6 +1,7 @@
-# 基于Vue3最新标准，实现后台前端综合解决方案(@muke)
+# 基于 Vue3 最新标准，实现后台前端综合解决方案(@muke)
 
 ## 技术栈
+
 1. Vue@3.x
 2. Element-plus
 3. vuex@4.x
@@ -13,6 +14,7 @@
 10. lint-staged
 
 ## 参考
+
 1. https://eslint.bootcss.com/
 2. https://www.prettier.cn/
 3. https://typicode.github.io/husky/#/
@@ -22,4 +24,6 @@
 7. https://pinia.vuejs.org/zh/
 8. https://vuex.vuejs.org/zh/
 9. https://typicode.github.io/husky/#/
-10. 
+10.
+
+## 配置 element-plus
