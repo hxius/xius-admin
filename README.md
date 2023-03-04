@@ -6,9 +6,11 @@
 3. vuex@4.x
 4. vue-router@4.x
 5. sass
-6. ESlint
+6. eslint
 7. husky
 8. Prettier
+9. cz-cli
+10. lint-staged
 
 ## 参考
 1. https://eslint.bootcss.com/
@@ -19,3 +21,5 @@
 6. https://router.vuejs.org/zh/
 7. https://pinia.vuejs.org/zh/
 8. https://vuex.vuejs.org/zh/
+9. https://typicode.github.io/husky/#/
+10. 
