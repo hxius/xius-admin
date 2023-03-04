@@ -5,6 +5,7 @@ specifiers:
   '@babel/eslint-parser': ^7.12.16
   '@commitlint/cli': ^17.4.4
   '@commitlint/config-conventional': ^17.4.4
+  '@element-plus/icons-vue': ^2.1.0
   '@vue/cli-plugin-babel': ~5.0.0
   '@vue/cli-plugin-eslint': ~5.0.0
   '@vue/cli-plugin-router': ~5.0.0
@@ -30,6 +31,7 @@ specifiers:
   vuex: ^4.0.0
 
 dependencies:
+  '@element-plus/icons-vue': 2.1.0_vue@3.2.47
   core-js: 3.29.0
   element-plus: 2.2.33_vue@3.2.47
   vue: 3.2.47
